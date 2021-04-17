@@ -1,0 +1,22 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+$gray: #F4F4F4;
+
+body {
+  background-color: rgb(252, 252, 252);
+}
+
+.button {
+  background-color:#0096ffa1;
+  width: 50px;
+  height: 36px;
+  border-top-right-radius: 20%;
+  border-bottom-right-radius: 20%;
+}
+
+.question {
+  width: 400px;
+  height: 30px;
+  border-radius: 8px;
+}
